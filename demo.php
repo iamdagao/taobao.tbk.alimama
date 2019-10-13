@@ -2,7 +2,7 @@
 namespace app\demo\controller;
 use cmf\controller\HomeBaseController;
 use tbk;
-class IndexController extends HomeBaseController
+class DemoController extends HomeBaseController
 {
     public function index()
     {
