@@ -3,8 +3,8 @@ namespace tbk;
 class tbk
 {
     protected $url='http://gw.api.taobao.com/router/rest?';
-	protected $appKey ='27960535';
-	protected $appSecret = '2eb22fad6fad3b84734e540427f58cd8';
+	protected $appKey ='';
+	protected $appSecret = '';
 	protected $format = 'json';
 	protected $v = '2.0';
 	protected $sign_method='md5';
